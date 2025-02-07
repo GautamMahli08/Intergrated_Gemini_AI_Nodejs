@@ -5,9 +5,9 @@ Instruction
 
 
 Dependencies need to download.(Used VScode)
-npm init -y
-npm axios 
-npm install @google/generative-ai dotenv
+1.npm init -y
+2.npm axios 
+3.npm install @google/generative-ai dotenv
 
 
 
