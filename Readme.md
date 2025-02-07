@@ -1,8 +1,8 @@
-🚀 Instructions to Run the Project
+🚀 Instructions to Run the Project <br>
 
 
-1️⃣ Get Your Gemini API Key
-Before running the project, create your own API key:
+1️⃣ Get Your Gemini API Key <br>
+Before running the project, create your own API key:<br>
 👉 Visit: Google AI Studio
 👉 Generate an API key.
 👉 Copy the key and paste it into the .env file (without quotes).
